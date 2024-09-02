@@ -42,9 +42,6 @@ This project is a RESTful API built with NestJS and MongoDB, designed to manage 
     npm run start:prod
     ```
 
-6. **Explore the API**:
-    The API can be tested using tools like Postman or through the built-in Swagger UI available at `http://localhost:3000/api-docs`.
-
 ## Contribution
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
